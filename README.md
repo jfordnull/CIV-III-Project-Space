@@ -7,5 +7,5 @@
  
  All assets were hand-modeled / created by the team, with a few exceptions:
  * The planets in the scene came from a [free asset package.](https://assetstore.unity.com/packages/3d/environments/planets-of-the-solar-system-3d-90219) 
- * The nebula skybox version of a [paid asset](https://assetstore.unity.com/packages/2d/textures-materials/sky/8k-nebulas-10-maps-65403) we optimized/compressed.
+ * The nebula skybox is a [paid asset](https://assetstore.unity.com/packages/2d/textures-materials/sky/8k-nebulas-10-maps-65403) we optimized/compressed.
  * While the material/texture for the player's hands was created by us, the hand models are from the [Oculus developer website.](https://developer.oculus.com/downloads/package/oculus-hand-models/)
