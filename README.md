@@ -10,7 +10,8 @@
  * The nebula skybox is a [paid asset](https://assetstore.unity.com/packages/2d/textures-materials/sky/8k-nebulas-10-maps-65403) we optimized/compressed.
  * While the material/texture for the player's hands was created by us, the hand models are from the [Oculus developer website.](https://developer.oculus.com/downloads/package/oculus-hand-models/)
  
- We recommended opening this project in Unity to see for yourself how the gameobjects interact in our scene. We also recommend experiencing the latest build of the project on your headset. [That's this file in the root directory.](https://github.com/jfordnull/CIV-III-Project-Space/blob/main/PS4.3.6.apk)
+ We recommended opening this project in Unity to see for yourself how the gameobjects interact in our scene. We also recommend experiencing the latest build of the application on your headset. [That's this file in the root directory.](https://github.com/jfordnull/CIV-III-Project-Space/blob/main/PS4.3.6.apk)
 
-If you're unfamiliar with SideQuest, it's a useful third party for installing apks to the headset. [You can find it here,](https://sidequestvr.com/setup-howto) just make sure you scroll down and select Advanced Installer. [This documentation explains how to install the apk.](https://innovate.it.miami.edu/_assets/pdf/tutorial-for-installing-app.pdf)
+If you're unfamiliar with SideQuest, it's a useful third party for installing apks to the Oculus Quest 2. [You can find it here,](https://sidequestvr.com/setup-howto) just make sure you scroll down and select Advanced Installer. [This documentation explains how to install the apk.](https://innovate.it.miami.edu/_assets/pdf/tutorial-for-installing-app.pdf)
 
+Finally, [a link to our video documentation for the project.](https://www.youtube.com/watch?v=BFOXRFZsWNU)
