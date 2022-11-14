@@ -9,7 +9,7 @@
  * The planets in the scene came from a [free asset package.](https://assetstore.unity.com/packages/3d/environments/planets-of-the-solar-system-3d-90219) 
  * The nebula skybox is a [paid asset](https://assetstore.unity.com/packages/2d/textures-materials/sky/8k-nebulas-10-maps-65403) we optimized/compressed.
  * While the material/texture for the player's hands was created by us, the hand models are from the [Oculus developer website.](https://developer.oculus.com/downloads/package/oculus-hand-models/)
- * A popular [free asset](https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488) for rendering outlines around objects
+ * We used a popular [free asset](https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488) for rendering outlines around objects
  
  We recommended opening this project in Unity to see for yourself how the gameobjects interact in our scene. We also recommend experiencing the latest build of the application on your headset. [That's this file in the root directory.](https://github.com/jfordnull/CIV-III-Project-Space/blob/main/PS4.3.6.apk)
 
