@@ -3,7 +3,7 @@
  
  All of our code is in the form of C# scripts which were attached to gameobjects in Unity. [Those scripts are found here.](https://github.com/jfordnull/CIV-III-Project-Space/tree/main/Project%20Space%204.1/Assets/Scripts) 
  
- This project relies packages from the Unity Registry: XR Plugin Management, Oculus XR Plugin, and the XR Interaction Toolkit (we're using v2.0.3). You'll see, for example, that XRGrabInteractableCustom.cs inherits from the XRIT's XRGrabInteractable class.
+ This project relies on packages from the Unity Registry: XR Plugin Management, Oculus XR Plugin, and the XR Interaction Toolkit (we're using v2.0.3). You'll see, for example, that XRGrabInteractableCustom.cs inherits from the XRIT's XRGrabInteractable class.
  
  All assets were hand-modeled / created by the team, with a few exceptions:
  * The planets in the scene came from a [free asset package.](https://assetstore.unity.com/packages/3d/environments/planets-of-the-solar-system-3d-90219) 
